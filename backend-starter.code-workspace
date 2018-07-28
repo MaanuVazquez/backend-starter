@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+        "javascript.format.enable": false,
+        "files.associations": {
+            "*.js": "javascript"
+        },
+        "javascript.validate.enable": true,
+        "editor.formatOnPaste": true,
+        "prettier.bracketSpacing": false,
+        "prettier.arrowParens": "avoid",
+        "prettier.eslintIntegration": true,
+        "prettier.jsxBracketSameLine": true,
+        "prettier.parser": "flow",
+        "prettier.printWidth": 120,
+        "prettier.semi": false,
+        "prettier.singleQuote": true,
+        "prettier.useTabs": false
+    }
+}
