@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+            "name": "BACKEND STARTER",
 			"path": "."
 		}
 	],
@@ -11,10 +12,11 @@
         },
         "javascript.validate.enable": true,
         "editor.formatOnPaste": true,
+        "prettier.stylelintIntegration": false,
+        "prettier.jsxBracketSameLine": false,
         "prettier.bracketSpacing": false,
         "prettier.arrowParens": "avoid",
         "prettier.eslintIntegration": true,
-        "prettier.jsxBracketSameLine": true,
         "prettier.parser": "flow",
         "prettier.printWidth": 120,
         "prettier.semi": false,
